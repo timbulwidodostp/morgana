@@ -3,6 +3,8 @@ Bayesian flexible survival models Use morgana With STATA 18
 
 Prefix commmand for estimating a Bayesian stmerlin survival model Use morgana With STATA 18
 
+https://www.youtube.com/watch?v=5sob38Q4sAA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
